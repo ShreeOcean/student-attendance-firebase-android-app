@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StudentAttendanceApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="highest_qualification">Highest Qualification</string>
+    <string name="email">Email</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="name">Name</string>
+    <string name="batch_join_date">Batch Join Date</string>
+    <string name="communication_address">Communication Address</string>
+    <string name="add_student">Add Student</string>
+    <string name="attendance_report">Attendance Report</string>
+    <string name="take_attendance">Take Attendance</string>
+    <string name="all_student_list">All Student List</string>
+</resources>

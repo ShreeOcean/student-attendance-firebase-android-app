@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "140046419042",
+    "firebase_url": "https://studentattendanceandroidapp-default-rtdb.firebaseio.com",
+    "project_id": "studentattendanceandroidapp",
+    "storage_bucket": "studentattendanceandroidapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140046419042:android:241dd90dcc6fae1b39fd3b",
+        "android_client_info": {
+          "package_name": "com.ocean.studentattendapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140046419042-dk73okekkcj4bna9o92hbhnnd8c2mj12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2rKhiWq59S6lFkNfiombPIs2BhK7BW6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140046419042-dk73okekkcj4bna9o92hbhnnd8c2mj12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
